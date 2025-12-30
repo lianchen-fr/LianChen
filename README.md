@@ -1,8 +1,17 @@
-# LianChen
-Société Lian Chen 
-Traductrice assermentée 
-Traduction générale et spécialisée (français ⇄ chinois ⇄ cantonais ⇄ anglais) 
-Création et développement de corpus linguistiques 
-Cours particuliers de langues (tous niveaux)  
-📍 Amiens, France 
+# Lian Chen
+
+## Société Lian Chen
+
+**Traductrice assermentée · Auto-entrepreneur**
+
+### Services
+
+- **Traduction générale et spécialisée**  
+  Français ⇄ Chinois ⇄ Cantonais ⇄ Anglais  
+- **Création et développement de corpus linguistiques**  
+- **Cours particuliers de langues** (tous niveaux)
+
+### Informations
+
+📍 Amiens, France  
 📧 Mail : lian.chen@orange.fr
